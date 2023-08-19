@@ -3,8 +3,8 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "My Blog",
-  description: "This is my new blog.",
+  title: "Sourav Padhi",
+  description: "I told my computer I needed a break, and now it won't stop suggesting vacation destinations!",
   // header: <header>Your custom header</header>,
   // section: (post: Post) => <section>Your custom section with access to Post props.</section>,
   footer: <footer><br><p>thanks for visiting. feel free to reach me at <a href="https://twitter.com/savyengineer">@savyengineer</a>.</p></br></footer>,
